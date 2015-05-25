@@ -4,6 +4,12 @@
   font-family: 'Roboto', sans-serif;
 }
 
+#main {
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .clearfix {
   overflow: auto;
 }
@@ -11,6 +17,10 @@
 .education-entry, .work-entry, .project-entry {
   padding-left: 5%;
   padding-right: 5%;
+}
+
+.project-entry img {
+    width: 150px;
 }
 
 h1 {
@@ -142,7 +152,7 @@ ul {
 .biopic {
   float: left;
   padding: 10px;
-  width: 200px;
+  width: 100px;
   display: none;
 }
 
