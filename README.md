@@ -4,6 +4,10 @@ This project started by cloning [udacity/frontend-nanodegree-resume](https://git
 
 Content in this resume is fictitious.
 
+### View the live project
+
+http://ammontenney.github.io/javascript-resume/
+
 ### Overview
 
 1. My work in this project is largely found in **js/resumeBuilder.js**
