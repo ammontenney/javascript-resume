@@ -2,11 +2,13 @@
 
 This project started by cloning [udacity/frontend-nanodegree-resume](https://github.com/udacity/frontend-nanodegree-resume).
 
+Content in this resume is fictitious.
+
 ### Overview
 
 1. My work in this project is largely found in **js/resumeBuilder.js**
-2. Using JavaScript, JSON, jQuery, and the included js/helper.js I populated the content for the resume
-3. I built the JSON data structure using the following schema:
+2. Content was populated using JavaScript, JSON, jQuery, and the included js/helper.js
+3. The JSON data structure was built using the following schema:
 
     a. `bio`
 
